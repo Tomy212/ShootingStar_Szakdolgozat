@@ -9,4 +9,4 @@ Ez egy belső nézetű lövöldözős játék, melyet a szakdolgozatom keretébe
 ## Telepítés  
 1. Klónozd a repót:  
    ```bash  
-   git clone https://github.com/felhasznalonev/FPS-jatek-szakdolgozat.git  
+   git clone https://github.com/Tomy212/ShootingStar_Szakdolgozat.git  
