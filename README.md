@@ -7,7 +7,7 @@ Ez egy belső nézetű lövöldözős játék, melyet a szakdolgozatom keretébe
 - **Játékmotor**: Unity
 - **Programozási nyelv**: C++
 - **Egyéb eszközök**: Blender
-- 
+  
 ## Telepítés  
 1. Klónozd a repót:  
    ```bash  
