@@ -5,7 +5,7 @@ Ez egy belső nézetű lövöldözős játék, melyet a szakdolgozatom keretébe
 
 ## Technológiák
 - **Játékmotor**: Unity
-- **Programozási nyelv**: C++
+- **Programozási nyelv**: C#
 - **Egyéb eszközök**: Blender
   
 ## Telepítés  
